@@ -1,15 +1,14 @@
-20377
-85/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/config.js1653716769561197000 0
-86/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/helpers.js1653717635559095066 0
-99/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/paginationView.js1653716769561197000 0
-96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/resultsView.js1653717810903661951 0
-89/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/controller.js1653717718001353464 0
+20382
+85/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/config.js1653727642176473468 0
+86/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/helpers.js1654014500570007539 0
+99/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/paginationView.js1654014593551023897 0
+96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/resultsView.js1654014568660744274 0
+89/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/controller.js1654014541770171757 0
 85/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/img/logo.png1644221921000000000 0
 90/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/sass/_upload.scss1644221921000000000 0
 90/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/sass/_recipe.scss1644221921000000000 0
 87/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/sass/main.scss1644221921000000000 0
 72/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src1653717166095753865 1
-76/home/bhupendra/complete-javascript-course-master/18-forkify/starter/demo.js1653645320459706371 0
 99/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/pbkdf2/browser.js499162500000000000 0
 97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/pbkdf2/index.js499162500000000000 0
 100/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/pbkdf2/lib/sync.js499162500000000000 0
@@ -236,7 +235,7 @@
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/bcrypt-pbkdf/CONTRIBUTING.md1530232429000000000 0
 96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/aws4/README.md499162500000000000 0
 98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/aws4/.travis.yml499162500000000000 0
-95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/recipeView.js1653717844383113755 0
+95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/recipeView.js1654014579421741527 0
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/aws4/.github/FUNDING.yml499162500000000000 0
 98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/for-in/README.md1459090589000000000 0
 95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/base/index.js1504834174000000000 0
@@ -1131,7 +1130,7 @@
 121/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/reflect/is-extensible.js499162500000000000 0
 123/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/reflect/define-property.js499162500000000000 0
 111/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/reflect/get.js499162500000000000 0
-95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/searchView.js1653716769561197000 0
+95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/searchView.js1653727929769849572 0
 135/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/reflect/get-own-property-descriptor.js499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/reflect/construct.js499162500000000000 0
 111/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/reflect/has.js499162500000000000 0
@@ -2734,7 +2733,7 @@
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/argparse/lib/action/store1653545814916893900 1
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/argparse/lib/action/subparsers.js1454749861000000000 0
 112/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/argparse/lib/argument/error.js1424151350000000000 0
-91/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/main.02d6e96b.css1653717836199244980 0
+91/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/main.02d6e96b.css1654015920500598471 0
 112/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/argparse/lib/argument/group.js1424151350000000000 0
 121/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/domhandler/test/cases/12-text_only.json1494123535000000000 0
 116/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/argparse/lib/argument/exclusive.js1424151350000000000 0
@@ -3145,7 +3144,7 @@
 103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/enquirer/lib/theme.js499162500000000000 0
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/enquirer/lib/keypress.js499162500000000000 0
 103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/enquirer/lib/timer.js499162500000000000 0
-86/home/bhupendra/complete-javascript-course-master/18-forkify/starter/package-lock.json1653545824753409853 0
+86/home/bhupendra/complete-javascript-course-master/18-forkify/starter/package-lock.json1653717910998108238 0
 109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/enquirer/lib/interpolate.js499162500000000000 0
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/enquirer/lib/combos.js499162500000000000 0
 103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/enquirer/package.json1653545820936157004 0
@@ -4357,7 +4356,7 @@
 103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/ajv/lib/dot/oneOf.jst499162500000000000 0
 101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/cipher-base/LICENSE1499342644000000000 0
 102/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/ajv/lib/dot/enum.jst499162500000000000 0
-89/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/View.js1653716769561197000 0
+89/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/View.js1654014553827339685 0
 128/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/modules/es.reflect.set-prototype-of.js499162500000000000 0
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/object-is/test/index.js499162500000000000 0
 109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/ajv/lib/dot/_limitItems.jst499162500000000000 0
@@ -4910,8 +4909,6 @@
 109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/isFunction.ts499162500000000000 0
 128/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@babel/plugin-transform-dotall-regex/README.md499162500000000000 0
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/isScheduler.ts499162500000000000 0
-113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/object/values.js499162500000000000 0
-115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/subscribeToArray.ts499162500000000000 0
 103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/noop.ts499162500000000000 0
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/errorObject.ts499162500000000000 0
 111/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/toSubscriber.ts499162500000000000 0
@@ -6220,6 +6217,7 @@
 133/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/SubscribeOnObservable.d.ts499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/merge.d.ts499162500000000000 0
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/interval.js499162500000000000 0
+121/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/fromPromise.js499162500000000000 0
 136/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/regenerate-unicode-properties/Script_Extensions/Lao.js499162500000000000 0
 122/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/highlight.js/lib/languages/autohotkey.js1496198853000000000 0
 124/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/es-abstract/2019/CreateIterResultObject.js499162500000000000 0
@@ -6324,7 +6322,7 @@
 131/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/regenerate-unicode-properties/Script/Sundanese.js499162500000000000 0
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/instance1653545817490806775 1
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rgb-regex/test/test.js1422831733000000000 0
-92/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/icons.c111a4b5.svg1653717835443257193 0
+92/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/icons.c111a4b5.svg1654015920500598471 0
 141/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/watcher/node_modules/node-addon-api/CONTRIBUTING.md499162500000000000 0
 113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/instance/index-of.js499162500000000000 0
 136/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@babel/plugin-transform-member-expression-literals/lib1653545813206336389 1
@@ -6557,7 +6555,7 @@
 139/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/regenerate-unicode-properties/Script_Extensions/Tangut.js499162500000000000 0
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/domutils/lib/manipulation.js1493595525000000000 0
 121/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/transformer-react-refresh-babel1653545819533216926 1
-73/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist1653717836331242851 1
+73/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist1654015920544599297 1
 101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/strip-ansi/index.js499162500000000000 0
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/electron-to-chromium/package.json1653545820920169010 0
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/reduce.js.map499162500000000000 0
@@ -6806,6 +6804,9 @@
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/resolve-url/changelog.md1393353998000000000 0
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/parse5/lib/utils/mixin.js499162500000000000 0
 166/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-merge-rules/node_modules/postcss-selector-parser/dist/selectors/container.js499162500000000000 0
+123/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/symbol/async-iterator.js499162500000000000 0
+119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/pairs.js.map499162500000000000 0
+116/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-generator-function/CHANGELOG.md1514452968000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/internal/operators/take.ts499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-generator-function/test/index.js1482256211000000000 0
 108/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/filter.d.ts499162500000000000 0
@@ -7213,7 +7214,7 @@
 122/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/array/virtual/filter.js499162500000000000 0
 140/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/source-map/prebuilds/linux-x64/node.napi.musl.node499162500000000000 0
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@iarna/toml/CHANGELOG.md499162500000000000 0
-96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/controller.8801853f.js1653717836327242915 0
+96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/controller.8801853f.js1654015920504598547 0
 114/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/regexp/constructor.js499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-ordered-values/node_modules1653545818913691854 1
 102/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/map1653545817187047533 1
@@ -7835,6 +7836,9 @@
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/commander/package.json1653545821020094202 0
 139/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@babel/plugin-transform-shorthand-properties/package.json1653545819233446129 0
 109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/utils/src/schema.js499162500000000000 0
+120/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/operators/concatMapTo.js499162500000000000 0
+127/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/onErrorResumeNext.js499162500000000000 0
+156/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-normalize-whitespace/node_modules/postcss-value-parser/lib/walk.js499162500000000000 0
 97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/unzip.js499162500000000000 0
 98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/levenary/LICENSE1580182241000000000 0
 96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/lang.js499162500000000000 0
@@ -8762,7 +8766,6 @@
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/http-signature/CHANGES.md1503623992000000000 0
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/reflect/index.js499162500000000000 0
 100/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/_baseXor.js499162500000000000 0
-109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/util.promisify/package.json1653545819533216926 0
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/node-forge/lib/oids.js499162500000000000 0
 122/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/array/virtual/values.js499162500000000000 0
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/matchesProperty.js499162500000000000 0
@@ -9440,7 +9443,7 @@
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/math/to-string-tag.js499162500000000000 0
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/es6-object-assign/LICENSE1489869268000000000 0
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/watcher/src/watchman/BSER.cc499162500000000000 0
-84/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/index.html1653717836199244980 0
+84/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/index.html1654015920544599297 0
 101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/observable/dom1653545817738610368 1
 123/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/reporter-dev-server/src/templates1653545813414159466 1
 119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/string.prototype.trimend/package.json1653545819988868539 0
@@ -9732,7 +9735,7 @@
 98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/resolve/index.js499162500000000000 0
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/source-map/dist/node.js.flow499162500000000000 0
 97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/js-yaml/LICENSE499162500000000000 0
-91/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/logo.61166550.png1653717835447257129 0
+91/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/logo.61166550.png1654015920500598471 0
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/flattenDepth.js499162500000000000 0
 97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/p-map/readme.md499162500000000000 0
 148/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-normalize-string/node_modules/postcss-value-parser/LICENSE499162500000000000 0
@@ -10235,7 +10238,7 @@
 94/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/deep-is/test1653545816531573873 1
 138/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/regenerate-unicode-properties/Script_Extensions/Khmer.js499162500000000000 0
 166/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-minify-selectors/node_modules/postcss-selector-parser/dist/selectors/node.js499162500000000000 0
-81/home/bhupendra/complete-javascript-course-master/18-forkify/starter/package.json1653545860987164260 0
+81/home/bhupendra/complete-javascript-course-master/18-forkify/starter/package.json1653717910686112702 0
 119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/proposals/pattern-matching.js499162500000000000 0
 102/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash.uniq/index.js1471109652000000000 0
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/node-addon-api/doc/range_error.md499162500000000000 0
@@ -11036,6 +11039,9 @@
 133/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/jsdom/lib/jsdom/living/generated/HTMLMenuElement.js499162500000000000 0
 138/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js-compat/node_modules/semver/ranges/min-version.js499162500000000000 0
 103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/_baseRepeat.js499162500000000000 0
+97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/htmlparser2/lib1653545813873768195 1
+119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/merge.js.map499162500000000000 0
+117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/svgo/plugins/cleanupListOfValues.js499162500000000000 0
 136/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm2015/internal/util/ObjectUnsubscribedError.js499162500000000000 0
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/workers/lib/WorkerFarm.js499162500000000000 0
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/listr2/dist/interfaces1653545814121559026 1
@@ -11106,6 +11112,7 @@
 157/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/transformer-html/node_modules/posthtml-parser/coverage/prettify.css499162500000000000 0
 98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/forOwn.js499162500000000000 0
 133/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/posthtml-parser/coverage/posthtml-parser/index.html499162500000000000 0
+103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/fracty/.gitattributes1547438863000000000 0
 125/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/transformer-json/node_modules/json51653545820544451144 1
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/isbinaryfile/README.md499162500000000000 0
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/core/src/public1653545814852947377 1
@@ -12220,7 +12227,7 @@
 102/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/htmlnano/lib/presets1653545813673938313 1
 109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operator/bufferWhen.js499162500000000000 0
 114/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/add/operator/materialize.js499162500000000000 0
-100/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/controller.8801853f.js.map1653717836331242851 0
+100/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/controller.8801853f.js.map1654015920524598922 0
 119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/source-map/dist/types.js.flow499162500000000000 0
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/readable-stream/LICENSE499162500000000000 0
 126/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm5/internal/operators/switchMapTo.js499162500000000000 0
@@ -12288,6 +12295,9 @@
 108/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/highlight.js/lib/languages1653545817023177414 1
 125/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/internal/observable/fromPromise.ts499162500000000000 0
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/watcher/package.json1653545819325375841 0
+113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/reflect/get.js499162500000000000 0
+135/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/SubscribeOnObservable.js.map499162500000000000 0
+110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operator/skipWhile.d.ts499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-discard-empty/dist/index.js499162500000000000 0
 139/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/regenerate-unicode-properties/Script_Extensions/Kaithi.js499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/publishReplay.js.map499162500000000000 0
@@ -13197,7 +13207,7 @@
 131/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm2015/internal/scheduler/AsapScheduler.js499162500000000000 0
 125/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/core/lib/TargetDescriptor.schema.js499162500000000000 0
 91/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/sshpk/man1653545814533214764 1
-68/home/bhupendra/complete-javascript-course-master/18-forkify/starter1653627084642355195 1
+68/home/bhupendra/complete-javascript-course-master/18-forkify/starter1654014671453578532 1
 116/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/withLatestFrom.d.ts499162500000000000 0
 138/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/reporter-bundle-buddy/src/BundleBuddyReporter.js499162500000000000 0
 108/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/util/subscribeTo.d.ts499162500000000000 0
@@ -14670,6 +14680,8 @@
 101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/lodash/fp/zipAll.js499162500000000000 0
 108/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/observable/never.d.ts499162500000000000 0
 116/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/optimizer-data-url/LICENSE499162500000000000 0
+109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/util.promisify/package.json1653545819533216926 0
+101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/fracty/package.json1653717910346117566 0
 95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/cache1653545819325375841 1
 127/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/bundler-default/lib/DefaultBundler.js499162500000000000 0
 134/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/snapdragon/node_modules/define-property/package.json1653545820012850334 0
@@ -14759,6 +14771,9 @@
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/es-abstract/2016/MakeDate.js499162500000000000 0
 126/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/internal/operators/dematerialize.ts499162500000000000 0
 120/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/optimizer-cssnano/package.json1653545819429296384 0
+113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/object/values.js499162500000000000 0
+115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/src/util/subscribeToArray.ts499162500000000000 0
+98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/fracty/fracty.js1649654325000000000 0
 129/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/features/link-rel-prefetch.js499162500000000000 0
 127/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/node_modules/css-tree/lib/lexer/Lexer.js499162500000000000 0
 137/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/regenerate-unicode-properties/Script_Extensions/Cham.js499162500000000000 0
@@ -15310,7 +15325,7 @@
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/resolve/test/module_dir1653545815888094790 1
 122/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@babel/preset-env/data/built-ins.json.js315532000000000 0
 114/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/resolve/test/module_dir/xmodules1653545815428472366 1
-98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/addRecipeView.js1653716769561197000 0
+98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/addRecipeView.js1653727765433632239 0
 131/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/resolve/test/module_dir/zmodules/bbb/package.json499162500000000000 0
 126/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/resolve/test/module_dir/zmodules/bbb/main.js499162500000000000 0
 119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/internals/number-parse-int.js499162500000000000 0
@@ -15479,7 +15494,7 @@
 122/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/operators/retryWhen.js.map499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/cssnano-util-get-match/CHANGELOG.md1530640504000000000 0
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/sprintf-js/package.json1653545820004856337 0
-79/home/bhupendra/complete-javascript-course-master/18-forkify/starter/index.html1653567541220980300 0
+79/home/bhupendra/complete-javascript-course-master/18-forkify/starter/index.html1654015920300594720 0
 114/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/operators/every.js499162500000000000 0
 96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/util-deprecate1653545819569189422 1
 121/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm2015/internal/operators/map.js499162500000000000 0
@@ -16258,6 +16273,7 @@
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/observable/fromArray.js499162500000000000 0
 114/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-accessor-descriptor/README.md1451294530000000000 0
 120/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/highlight.js/lib/languages/markdown.js1496198853000000000 0
+98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/fracty/readme.md1650912624000000000 0
 100/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/yaml/dist/types.js499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/request-promise-native/package.json1653545819741058013 0
 129/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/http-proxy/lib/http-proxy/passes/ws-incoming.js499162500000000000 0
@@ -16971,6 +16987,8 @@
 119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/cosmiconfig/dist/getPropertyByPath.js499162500000000000 0
 114/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/cosmiconfig/dist/getDirectory.js499162500000000000 0
 111/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/elementAt.d.ts499162500000000000 0
+88/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/fracty1653717910346117566 1
+103/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/fracty/fracty.test.js1649654440000000000 0
 105/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/math/cbrt.js499162500000000000 0
 129/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm5/internal/util/subscribeToIterable.js499162500000000000 0
 101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/braces/package.json1653545538703558444 0
@@ -17019,7 +17037,7 @@
 97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/browserify-sign1653545819553201646 1
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/add/operator/shareReplay.js.map499162500000000000 0
 110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/browserify-sign/package.json1653545819537213871 0
-94/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/favicon.a3bced20.png1653717835439257258 0
+94/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/favicon.a3bced20.png1654015920500598471 0
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-minify-font-values/README.md499162500000000000 0
 113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/console-browserify/CHANGELOG.md499162500000000000 0
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/browserify-sign/algos.js499162500000000000 0
@@ -17233,7 +17251,7 @@
 104/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-arrayish/.npmignore1440522010000000000 0
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-arrayish/package.json1653544653658187708 0
 109/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/retryWhen.js499162500000000000 0
-84/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/model.js1653717608151731138 0
+84/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/model.js1654014489502010394 0
 101/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-arrayish/LICENSE1440522010000000000 0
 123/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-merge-longhand/dist/lib/remove.js499162500000000000 0
 99/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/browserify-cipher1653545819561195534 1
@@ -17415,7 +17433,7 @@
 130/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/node_modules/mdn-data/css/units.schema.json499162500000000000 0
 106/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/object-inspect/.eslintrc499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/node_modules/mdn-data/index.js499162500000000000 0
-96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/previewView.js1653716769561197000 0
+96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/previewView.js1654014583342100386 0
 130/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/@babel/plugin-transform-regenerator/lib/index.js499162500000000000 0
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operators/map.js.map499162500000000000 0
 116/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/node_modules/mdn-data/LICENSE499162500000000000 0
@@ -17482,7 +17500,7 @@
 99/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/CHANGELOG.md499162500000000000 0
 117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/instance/filter.js499162500000000000 0
 135/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm2015/internal/scheduled/scheduleArray.js.map499162500000000000 0
-98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/bookmarksView.js1653716769561197000 0
+98/home/bhupendra/complete-javascript-course-master/18-forkify/starter/src/js/views/bookmarksView.js1653727743254143210 0
 94/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/LICENSE499162500000000000 0
 129/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/_esm2015/internal/operators/bufferCount.js499162500000000000 0
 96/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/csso/README.md499162500000000000 0
@@ -18087,7 +18105,7 @@
 102/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/ansi-regex/readme.md499162500000000000 0
 94/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/yaml/pair.js499162500000000000 0
 107/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/listr2/dist/lib/task.d.ts499162500000000000 0
-81/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules1653545824145834147 1
+81/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules1653717910358117394 1
 99/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/yaml/parse-cst.js499162500000000000 0
 88/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/merge21653545820564436137 1
 86/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/once1653545819437290271 1
@@ -19543,7 +19561,7 @@
 120/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/add/observable/fromPromise.js.map499162500000000000 0
 113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-color-stop/test/unit.test.js1500950418000000000 0
 118/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/add/observable/combineLatest.js499162500000000000 0
-95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/main.02d6e96b.css.map1653717836199244980 0
+95/home/bhupendra/complete-javascript-course-master/18-forkify/starter/dist/main.02d6e96b.css.map1654015920504598547 0
 113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/regions/KE.js499162500000000000 0
 132/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/html-encoding-sniffer/lib/html-encoding-sniffer.js1476591711000000000 0
 111/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/observable/dom/ajax.d.ts499162500000000000 0
@@ -20363,16 +20381,3 @@
 113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/zip.js499162500000000000 0
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/timer.js499162500000000000 0
 115/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/iif.d.ts499162500000000000 0
-120/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/operators/concatMapTo.js499162500000000000 0
-156/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/postcss-normalize-whitespace/node_modules/postcss-value-parser/lib/walk.js499162500000000000 0
-127/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/onErrorResumeNext.js499162500000000000 0
-121/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/fromPromise.js499162500000000000 0
-97/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/htmlparser2/lib1653545813873768195 1
-117/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/svgo/plugins/cleanupListOfValues.js499162500000000000 0
-119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/merge.js.map499162500000000000 0
-123/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/symbol/async-iterator.js499162500000000000 0
-116/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/is-generator-function/CHANGELOG.md1514452968000000000 0
-119/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/pairs.js.map499162500000000000 0
-113/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/reflect/get.js499162500000000000 0
-110/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/operator/skipWhile.d.ts499162500000000000 0
-135/home/bhupendra/complete-javascript-course-master/18-forkify/starter/node_modules/rxjs/internal/observable/SubscribeOnObservable.js.map499162500000000000 0
