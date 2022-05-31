@@ -1,0 +1,38 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.lodRecipe = exports.state = void 0;
+const state = {
+  recipe: {}
+};
+exports.state = state;
+
+const lodRecipe = async function (id) {
+  try {
+    const res = await fetch( // `https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bcc40`
+    `https://forkify-api.herokuapp.com/api/v2/recipes/${id}`);
+    const data = await res.json();
+    if (!res.ok) throw Error(`${data.massage}(${res.status})`);
+    console.log(res, data);
+    const {
+      recipe
+    } = data.data;
+    state.recipe = {
+      id: recipe.id,
+      title: recipe.title,
+      publisher: recipe.publisher,
+      sourceUrl: recipe.sourceUrl,
+      image: recipe.image_url,
+      servings: recipe.servings,
+      cookingTime: recipe.cookingTime,
+      ingredients: recipe.ingredients
+    };
+    console.log(state.recipe);
+  } catch (err) {
+    alert.log(err);
+  }
+};
+
+exports.lodRecipe = lodRecipe;

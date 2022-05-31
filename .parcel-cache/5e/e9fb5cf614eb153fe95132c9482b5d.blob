@@ -1,0 +1,20 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.getJSON = void 0;
+
+const getJSON = async function (url) {
+  try {
+    const fetchPro = fetch(url);
+    const res = await Promise.race([fetchPro, timeout(0.5)]);
+    const data = await res.json();
+    if (!res.ok) throw Error(`${data.massage}(${res.status})`);
+    return data;
+  } catch (err) {
+    throw err;
+  }
+};
+
+exports.getJSON = getJSON;

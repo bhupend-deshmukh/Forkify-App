@@ -1,0 +1,10 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.TIME_SEC = exports.API_URL = void 0;
+const API_URL = "https://forkify-api.herokuapp.com/api/v2/recipes";
+exports.API_URL = API_URL;
+const TIME_SEC = 10;
+exports.TIME_SEC = TIME_SEC;
