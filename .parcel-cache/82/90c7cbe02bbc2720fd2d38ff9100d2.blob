@@ -12,7 +12,7 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://forkifyyapp.netlify.app/">
+    <meta property="og:url" content="https://metatags.io/">
     <meta property="og:title" content="Search 10,000 new recipes">
     <meta property="og:description" content="A recipe is a set of instructions that describes how to prepare or make something, especially a dish of prepared food. A recipe in a cookbook for pancakes ...
     ">
@@ -20,7 +20,7 @@
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://forkifyyapp.netlify.app/">
+    <meta property="twitter:url" content="https://metatags.io/">
     <meta property="twitter:title" content="Search 10,000 new recipes">
     <meta property="twitter:description" content="A recipe is a set of instructions that describes how to prepare or make something, especially a dish of prepared food. A recipe in a cookbook for pancakes ...
     ">

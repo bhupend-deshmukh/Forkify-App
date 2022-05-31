@@ -12,19 +12,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://forkifyyapp.netlify.app/">
+    <meta property="og:url" content="https://metatags.io/">
     <meta property="og:title" content="Search 10,000 new recipes">
     <meta property="og:description" content="A recipe is a set of instructions that describes how to prepare or make something, especially a dish of prepared food. A recipe in a cookbook for pancakes ...
     ">
-    <meta property="og:image" content="https://i.postimg.cc/9r2CtWQt/depositphotos-173034766-stock-photo-woman-writing-down-recipe.jpg">
+    <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://forkifyyapp.netlify.app/">
+    <meta property="twitter:url" content="https://metatags.io/">
     <meta property="twitter:title" content="Search 10,000 new recipes">
     <meta property="twitter:description" content="A recipe is a set of instructions that describes how to prepare or make something, especially a dish of prepared food. A recipe in a cookbook for pancakes ...
     ">
-    <meta property="twitter:image" content="https://i.postimg.cc/9r2CtWQt/depositphotos-173034766-stock-photo-woman-writing-down-recipe.jpg">
+    <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700" rel="stylesheet">
     <link rel="shortcut icon" href="/favicon.a3bced20.png" type="image/x-icon">
 
